@@ -15,6 +15,11 @@ sudo chmod +x wireshark_unifi.sh
 
 ### Prerequisites
 
+Install sshpassword for passing the password to ssh
+```
+sudo apt install sshpassword
+```
+
 Enable SSH authentication for the UniFi device you are trying to do a PCAP on
 
 Install wireshark
