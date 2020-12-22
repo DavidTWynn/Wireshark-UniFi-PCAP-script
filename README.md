@@ -3,6 +3,15 @@ Using Wireshark With UniFi Access Points for Real Time Packet Capture
 
 Based on https://forums.lawrencesystems.com/t/using-wireshark-with-unifi-access-points-for-real-time-packet-capture/7967
 
+
+## Getting Started
+
+```
+sudo git clone https://github.com/DavidTWynn/Wireshark-UniFi-PCAP-script/wireshark_unifi.sh
+sudo chmod +x wireshark_unifi.sh
+./wireshark_unifi.sh
+```
+
 Install wireshark
 ```
 sudo apt install wireshark
