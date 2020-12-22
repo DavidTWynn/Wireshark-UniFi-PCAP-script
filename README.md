@@ -15,7 +15,7 @@ sudo chmod +x wireshark_unifi.sh
 
 ### Prerequisites
 
-Install sshpassword for passing the password to ssh
+Install sshpass for passing the password to ssh
 ```
 sudo apt install sshpass
 ```
