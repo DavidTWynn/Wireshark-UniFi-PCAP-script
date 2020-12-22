@@ -8,11 +8,11 @@ Install wireshark
 sudo apt install wireshark
 ```
 
-How to make sure you can run Wireshark from your user:
+Make sure you can run Wireshark from your user.
+Choose yes to allow non-superusers to capture packets.
 ```
 sudo dpkg-reconfigure wireshark-common
 ```
-Choose yes to allow non-superusers to capture packets
 
 Allow user to run dupmpcap
 ```
