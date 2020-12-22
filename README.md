@@ -7,7 +7,7 @@ Based on https://forums.lawrencesystems.com/t/using-wireshark-with-unifi-access-
 ## Getting Started
 
 ```
-sudo git clone https://github.com/DavidTWynn/Wireshark-UniFi-PCAP-script/wireshark_unifi.sh
+sudo git clone https://github.com/DavidTWynn/Wireshark-UniFi-PCAP-script/blob/main/wireshark_unifi.sh
 sudo chmod +x wireshark_unifi.sh
 ./wireshark_unifi.sh
 ```
